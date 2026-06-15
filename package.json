@@ -1,7 +1,7 @@
 {
   "name": "costs",
   "version": "0.1.0",
-  "homepage": "https://vitorfeerreira.github.io/costs-react",
+  "homepage": "https://vitorfeerreira.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
