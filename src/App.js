@@ -1,4 +1,4 @@
-import { HashRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes} from "react-router-dom";
 import Home from "./components/page/Home";
 import Company from "./components/page/Company";
 import Contact from "./components/page/Contact";
@@ -12,7 +12,7 @@ import Project from "./components/page/Project";
 function App() {
   return (
     <Router>
-      <Navbar />
+      <Navbar/>
       <div>
         <Container customClass="min-height">
           <Routes>
@@ -25,7 +25,7 @@ function App() {
           </Routes>
         </Container>
       </div>
-      <Footer />
+      <Footer/>
     </Router>
   );
 }
