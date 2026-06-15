@@ -1,3 +1,30 @@
+# Costs
+
+Aplicação web para gerenciamento de projetos e serviços desenvolvida em React.
+
+## Tecnologias
+
+- React
+- React Router DOM
+- CSS Modules
+- JSON Server
+- Render (API)
+- GitHub Pages (Frontend)
+
+## Funcionalidades
+
+- Criar projetos
+- Editar projetos
+- Excluir projetos
+- Adicionar serviços
+- Controle de orçamento
+
+## Deploy
+
+Frontend: https://vitorfeerreira.github.io/costs-react/
+
+Backend: https://costs-api-2.onrender.com
+
 # Estruturação dos Componentes React
 
 No projeto Costs, a arquitetura foi organizada seguindo o princípio de separação de responsabilidades e reutilização de componentes.
