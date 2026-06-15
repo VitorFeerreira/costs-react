@@ -26,30 +26,6 @@ Benefícios:
 * Facilidade de atualização.
 * Reutilização em múltiplas telas.
 
-## Estrutura Geral
-
-```text
-components/
-├── layout/
-│   ├── Navbar.js
-│   ├── Footer.js
-│   ├── Container.js
-│   └── Message.js
-├── form/
-│   ├── Input.js
-│   ├── Select.js
-│   └── SubmitButton.js
-├── project/
-│   ├── ProjectForm.js
-│   ├── ProjectCard.js
-│   └── ServiceForm.js
-└── page/
-    ├── Home.js
-    ├── Projects.js
-    ├── Project.js
-    └── NewProject.js
-```
-
 ## Motivo da Componentização
 
 A componentização foi utilizada para tornar o código mais organizado, reutilizável e escalável.
