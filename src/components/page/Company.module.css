@@ -1,0 +1,15 @@
+.company_container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 2em;
+}
+
+.company_container h1,
+.company_container h2 {
+  margin-bottom: 1rem;
+}
+
+.company_container p,
+.company_container li {
+  margin-bottom: 0.5rem;
+}

@@ -1,0 +1,48 @@
+.contact_container {
+  width: 500px;
+  margin: 0 auto;
+  padding: 2em;
+}
+
+.contact_container form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact_container label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.contact_container input,
+.contact_container textarea {
+  width: 100%;
+  padding: 0.7em;
+  margin-bottom: 1rem;
+}
+
+.contact_container textarea {
+  min-height: 120px;
+  resize: vertical;
+}
+
+.btn {
+  display: block;
+  margin: 0 auto;
+}
+
+.btn {
+  width: 50%;
+  background-color: #222;
+  color: #fff;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  transition: 0.5s;
+  border-radius: 5em;
+  cursor: pointer;
+  max-height: 40px;
+  border: none;
+}
+.btn:hover{
+background-color: #ffbb33;
+}
