@@ -26,17 +26,5 @@ Benefícios:
 * Facilidade de atualização.
 * Reutilização em múltiplas telas.
 
-## Motivo da Componentização
-
-A componentização foi utilizada para tornar o código mais organizado, reutilizável e escalável.
-
-Em vez de criar toda a interface em um único arquivo, cada parte da aplicação possui uma responsabilidade específica:
-
-* Layout: estrutura visual compartilhada.
-* Form: componentes genéricos de entrada de dados.
-* Project: componentes ligados à regra de negócio.
-* Page: telas associadas às rotas da aplicação.
-
-Essa abordagem segue boas práticas do React e facilita futuras manutenções, correções e inclusão de novas funcionalidades.
 
 
