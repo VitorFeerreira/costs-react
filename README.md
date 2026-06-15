@@ -63,3 +63,4 @@ Em vez de criar toda a interface em um único arquivo, cada parte da aplicação
 
 Essa abordagem segue boas práticas do React e facilita futuras manutenções, correções e inclusão de novas funcionalidades.
 
+
